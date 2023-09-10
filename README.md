@@ -28,7 +28,8 @@ Take your data analysis capabilities to the next level with this comprehensive m
 
 # Nanodgree Certificate:
 
+![Screen_Capture_-_Sep_10__3_50_PM](https://github.com/AliyahHA/Data-Analysis-and-visualization-with-Microsoft-Power-BI/assets/53529035/36484703-b055-43fb-8f28-afe292c9f102)
 
-![Screen_Capture_-_Sep_10__2_53_PM](https://github.com/AliyahHA/Data-Analysis-and-visualization-with-Microsoft-Power-BI/assets/53529035/94351faa-df89-4f73-aabb-ef98742b4e75)
+
 
 
