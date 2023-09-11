@@ -5,7 +5,7 @@ This repository showcases a collection of projects completed as part of Udacity'
 
 | Project number  | Project |
 | ------------- | ------------- |
-| 01  | [Building Data Model for seven Stages Brewing Company] (https://github.com/AliyahHA/Data-Analysis-and-visualization-with-Microsoft-Power-BI/tree/main/Project%201%20Create%20Data%20Model%20for%20Seven%20%20Sages%20Brewing-Company) |
+| 01  | [https://github.com/AliyahHA/Data-Analysis-and-visualization-with-Microsoft-Power-BI/tree/main/Project%201%20Create%20Data%20Model%20for%20Seven%20%20Sages%20Brewing-Company] (Building Data Model for seven Stages Brewing Company) |
 | 02  | Building Power Bi dashboard report for Waggle Company |
 | 03  | Building Market Analysis report for National Clothing Chain Company |
 
